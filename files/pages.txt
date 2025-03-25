@@ -1,0 +1,20 @@
+# Our links
+<a href="https://discord.gg/ARw779uDyn" style="float: left;">
+  <img src="https://cdn.modrinth.com/data/cached_images/fc50e1457506eeaca4f3a35f8a3653fd73f99512.png" alt="Discord Link" width="420">
+</a>
+          
+<a href="https://www.curseforge.com/minecraft/mc-mods/colorful-paradise" style="float: right;">
+  <img src="https://cdn.modrinth.com/data/cached_images/3122b833ddc729c1f3b083a0aeb186ee5b982462.png" alt="CurseForge Link" width="420">
+</a>
+
+
+# Information
+Text
+  
+
+
+
+## 
+Developed by the IleafMC Team which is a part of IleafDevelopment.
+
+All rights reserved by IleafDevelopment.
