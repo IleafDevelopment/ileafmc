@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    background: radial-gradient(circle at top left, #181b1f, transparent),
+                radial-gradient(circle at bottom left, #272d2d, transparent),
+                radial-gradient(circle at bottom right, #363b40, transparent);
+    font-family: Arial, sans-serif;
+}
+
+table {
+  width: 80%;
+  border-collapse: collapse;
+  margin: 10%;
+  overflow: hidden;
+}
+
+table th, table td {
+  border: 1px solid #d5dee9;
+  padding: 8px;
+  text-align: left;
+color: #8f9db4;
+}
+
+table th {
+  background-color: #22282c;
+  font-weight: bold;
+}
+
+table tr:nth-child(even) {
+  background-color: #2d3037;
+}
+
+table tr:hover {
+  background-color: #49647e;
+}
+
+caption {
+
+    font-size: 5vh;
+    color: aliceblue;
+    margin: 20px;
+
+}
